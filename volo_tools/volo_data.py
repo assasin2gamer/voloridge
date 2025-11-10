@@ -4,61 +4,73 @@ import pandas as pd
 from volo_tools import volo_feature
 importlib.reload(volo_feature)
 
-'''
-Initial data processing
-2:40am 11/05/2025
-
-'''
-
 class VoloDataProcessor:
     def __init__(self):
         self.data = None
 
     def process(self, data_path):
-        ''' 
+        """
         CSV has: Code,Symbol,Date,Close,Volume,Adjustment Factor
-        Seperate by Symbol
-        '''
+        Separate by Symbol and handle VXX splits
+        """
+        # Load and ensure all dates are parsed as datetime
         self.data = pd.read_csv(data_path)
-        # Sort data by Symbol and Date
-        self.data.sort_values(by=['Symbol', 'Date'], inplace=True)
-        # Replace price with adjusted price
-        self.data['Adj_Close'] = self.data['Close'] * self.data['Adjustment Factor']
-        
-        # Print stocks with adjustment factor not equal to 1 and how many times it changes
-        adjustment_issues = self.data[self.data['Adjustment Factor'] != 1]
+        self.data["Date"] = pd.to_datetime(self.data["Date"], format="%m/%d/%Y", errors="coerce")
+        self.data.sort_values(by=["Symbol", "Date"], inplace=True)
+
+        # Compute initial adjusted close
+        self.data["Adj_Close"] = self.data["Close"] * self.data["Adjustment Factor"]
+
+        # Print which symbols have adjustment changes
+        adjustment_issues = self.data[self.data["Adjustment Factor"] != 1]
         if not adjustment_issues.empty:
-            adjustment_counts = adjustment_issues.groupby('Symbol').size()
+            adjustment_counts = adjustment_issues.groupby("Symbol").size()
             print("Stocks with adjustment factor changes:")
             print(adjustment_counts)
-        
-        # Create a csv for each stock symbol
-        symbols = self.data['Symbol'].unique()
-        for symbol in symbols:
-            symbol_data = self.data[self.data['Symbol'] == symbol]
-            # sort by date (month/day/year)
-            symbol_data['Date'] = pd.to_datetime(symbol_data['Date'], format='%m/%d/%Y')
-            symbol_data.sort_values(by='Date', inplace=True)
-            
-            
-            symbol_data.to_csv(f"data/{symbol}_data.csv", index=False)
-            
-        # Range of dates for each stock and save as a csv for sanity check
-        date_ranges = []
-        for symbol in symbols:
-            symbol_data = self.data[self.data['Symbol'] == symbol]
-            start_date = symbol_data['Date'].min()
-            end_date = symbol_data['Date'].max()
-            date_ranges.append({'Symbol': symbol, 'Start Date': start_date, 'End Date': end_date})
-        date_ranges_df = pd.DataFrame(date_ranges)
-        date_ranges_df.to_csv("data/date_ranges.csv", index=False)
 
+        # List of all symbols
+        symbols = self.data["Symbol"].unique()
+
+        for symbol in symbols:
+            symbol_data = self.data[self.data["Symbol"] == symbol].copy()
+            symbol_data.sort_values(by="Date", inplace=True)
+
+            if symbol == "VXX":
+                # Define all reverse split events
+                vxx_splits = pd.DataFrame({
+                    "Date": pd.to_datetime([
+                        "2010-11-09", "2012-10-05", "2013-11-08",
+                        "2016-08-09", "2017-08-23", "2021-04-23",
+                        "2023-03-07", "2024-07-24"
+                    ]),
+                    "Split Ratio": [0.25] * 8
+                }).sort_values("Date")
+
+                # Apply each split only once forward (non-cumulative)
+                for _, row in vxx_splits.iterrows():
+                    split_date = row["Date"]
+                    split_ratio = row["Split Ratio"]
+                    # Adjust only VXX data after that split date
+                    self.data.loc[
+                        (self.data["Symbol"] == "VXX") & (self.data["Date"] >= split_date),
+                        "Adjustment Factor"
+                    ] *= split_ratio
+
+            # Write per-symbol CSV
+            symbol_data.to_csv(f"data/{symbol}_data.csv", index=False)
+
+        # Recalculate Adj_Close after all splits
+        self.data["Adj_Close"] = self.data["Close"] * self.data["Adjustment Factor"]
+
+        # Save date ranges for sanity check
+        date_ranges = (
+            self.data.groupby("Symbol")["Date"]
+            .agg(["min", "max"])
+            .reset_index()
+            .rename(columns={"min": "Start Date", "max": "End Date"})
+        )
+        date_ranges.to_csv("data/date_ranges.csv", index=False)
+
+        # Feed adjusted data into feature processor
         result = volo_feature.VoloFeatureProcessor(self.data).feature_process()
-        
-        
         return result
-            
-    
-    
-        
-    
