@@ -1,0 +1,2854 @@
+Top Features for window starting at 875:
+            Feature     Gain  Window_Start
+Variance_5d_MA_SCHW 2.133731           875
+       Beta_45d_APC 1.858706           875
+Variance_45d_MA_JNJ 1.783983           875
+      Beta_45d_REGN 1.758426           875
+       Beta_45d_SLB 1.739705           875
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:12:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:12:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:12:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 880:
+            Feature     Gain  Window_Start
+       Beta_45d_APC 3.046770           880
+Variance_45d_MA_JNJ 1.893118           880
+          MA_45d_HD 1.839819           880
+     Beta_45d_BRK.B 1.399341           880
+  Variance_45d_AABA 1.316471           880
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:12:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:12:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:00] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 885:
+           Feature     Gain  Window_Start
+      Beta_45d_APC 3.972219           885
+         MA_45d_HD 2.951395           885
+       MA_45d_ESRX 1.641718           885
+Variance_45d_MA_CB 1.565364           885
+    Beta_45d_BRK.B 1.187537           885
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:10] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 890:
+            Feature     Gain  Window_Start
+       Beta_45d_APC 3.275165           890
+ Variance_5d_MA_DIS 2.971519           890
+ Variance_45d_MA_CB 1.774086           890
+ Variance_5d_MA_CRM 1.582221           890
+Variance_5d_MA_AMGN 1.580245           890
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 895:
+           Feature     Gain  Window_Start
+      Beta_45d_APC 7.541761           895
+  Variance_45d_CRM 3.905715           895
+     Beta_45d_REGN 3.385259           895
+Variance_5d_MA_CRM 2.251074           895
+Variance_5d_MA_DIA 1.841231           895
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:21] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:21] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 900:
+            Feature     Gain  Window_Start
+   Variance_45d_CRM 3.101364           900
+       Beta_45d_APC 2.650863           900
+ Variance_5d_MA_CRM 2.181249           900
+ Variance_5d_MA_DIA 1.943159           900
+Variance_45d_MA_MCK 1.625119           900
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:39] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 905:
+            Feature     Gain  Window_Start
+ Variance_45d_MA_MA 2.340941           905
+ Variance_5d_MA_CRM 1.922950           905
+ Variance_5d_MA_DIA 1.791972           905
+   Variance_45d_CRM 1.297323           905
+Variance_45d_MA_HON 1.292058           905
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:49] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 910:
+            Feature     Gain  Window_Start
+ Variance_45d_MA_MA 2.216921           910
+ Variance_5d_MA_CRM 1.972536           910
+     Beta_45d_BRK.B 1.534543           910
+Variance_45d_MA_MCK 1.153336           910
+         Close_ILMN 1.086460           910
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:13:59] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 915:
+              Feature     Gain  Window_Start
+   Variance_5d_MA_CRM 2.960788           915
+   Variance_45d_MA_MA 2.401309           915
+       Beta_45d_BRK.B 1.283684           915
+    Variance_45d_SPXU 1.032791           915
+Variance_5d_MA_LBTY.K 0.926998           915
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 920:
+              Feature     Gain  Window_Start
+       Beta_45d_BRK.B 2.122225           920
+   Variance_5d_MA_KMB 1.938697           920
+     Variance_45d_CRM 1.623987           920
+Variance_5d_MA_LBTY.K 1.076064           920
+        Beta_45d_AMGN 0.812600           920
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:19] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 925:
+           Feature     Gain  Window_Start
+    Beta_45d_BRK.B 2.313223           925
+      Beta_45d_TWX 1.416389           925
+      Beta_45d_PXD 1.049013           925
+         Close_IVV 1.027837           925
+Variance_5d_MA_CRM 0.984738           925
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:21] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:21] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:29] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 930:
+           Feature     Gain  Window_Start
+    Beta_45d_BRK.B 2.599277           930
+Variance_5d_MA_CRM 2.125036           930
+  Variance_45d_UNP 1.207838           930
+      Beta_45d_TWX 1.041921           930
+         Close_IVV 0.991748           930
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:31] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 935:
+              Feature     Gain  Window_Start
+   Variance_5d_MA_KMB 2.314850           935
+       Beta_45d_BRK.B 2.139424           935
+     Variance_45d_CRM 1.438423           935
+         Beta_45d_TWX 1.307507           935
+Variance_5d_MA_LBTY.K 1.298905           935
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:41] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 940:
+             Feature     Gain  Window_Start
+      Beta_45d_BRK.B 2.907892           940
+Variance_45d_MA_GILD 2.407333           940
+   Variance_45d_MA_T 1.890145           940
+        Beta_45d_ICE 1.607235           940
+ Variance_45d_MA_AMJ 1.461318           940
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:14:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:01] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 945:
+           Feature     Gain  Window_Start
+        MA_45d_BDX 2.679464           945
+Variance_5d_MA_CRM 2.351391           945
+  Variance_45d_CRM 2.033667           945
+       MA_45d_AMGN 2.033234           945
+    Beta_45d_BRK.B 1.930061           945
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:03] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:03] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:11] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 950:
+           Feature     Gain  Window_Start
+Variance_5d_MA_CRM 3.412556           950
+       MA_45d_AMGN 3.220711           950
+        MA_45d_EOG 1.932358           950
+        Close_INTC 1.635317           950
+    Adj_Close_INTC 1.252399           950
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:22] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 955:
+           Feature     Gain  Window_Start
+         MA_45d_HD 3.284131           955
+Variance_5d_MA_CRM 2.931813           955
+      Beta_45d_APC 2.875756           955
+        MA_45d_EOG 1.988943           955
+    Adj_Close_INTC 1.960032           955
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:32] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 960:
+           Feature     Gain  Window_Start
+Variance_5d_MA_CRM 3.149668           960
+         Close_XLY 3.019545           960
+      Beta_45d_APC 2.586692           960
+    Adj_Close_INTC 1.705759           960
+        Close_INTC 1.687430           960
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:33] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:42] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 965:
+           Feature     Gain  Window_Start
+Variance_5d_MA_CRM 4.320752           965
+      Beta_45d_APC 4.207912           965
+    Adj_Close_UPRO 4.073117           965
+    Adj_Close_INTC 1.738555           965
+        Close_INTC 1.669963           965
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:52] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 970:
+           Feature     Gain  Window_Start
+Variance_5d_MA_CRM 3.456856           970
+  Variance_45d_CRM 1.473337           970
+     Beta_45d_REGN 1.408061           970
+        Close_EXPE 1.301829           970
+     Beta_45d_ANDV 1.235238           970
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:54] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:15:54] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:03] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 975:
+           Feature     Gain  Window_Start
+     Beta_45d_REGN 3.635644           975
+        Close_EXPE 3.567349           975
+Variance_5d_MA_CRM 3.367797           975
+Variance_5d_MA_ICE 2.645768           975
+  Adj_Close_TFCF.A 2.032601           975
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:13] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 980:
+            Feature     Gain  Window_Start
+ Variance_5d_MA_ICE 4.342534           980
+ Variance_5d_MA_CRM 3.421676           980
+      Beta_45d_REGN 2.825835           980
+Variance_5d_MA_AAPL 2.235517           980
+       Adj_Close_BK 1.688629           980
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:15] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 985:
+           Feature     Gain  Window_Start
+Variance_5d_MA_COP 4.452955           985
+     Beta_45d_REGN 3.587418           985
+Variance_5d_MA_CRM 2.881940           985
+         Close_AIG 2.224873           985
+  Adj_Close_TFCF.A 1.515487           985
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:34] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 990:
+             Feature     Gain  Window_Start
+  Variance_5d_MA_CRM 3.695547           990
+            MA_45d_C 2.405113           990
+  Variance_5d_MA_ICE 2.334561           990
+ Variance_5d_MA_AAPL 2.202710           990
+Variance_45d_MA_BIDU 1.837372           990
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:44] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 995:
+            Feature     Gain  Window_Start
+Variance_45d_MA_XOM 4.580574           995
+ Variance_5d_MA_ICE 3.898264           995
+       MA_45d_BRK.B 3.844585           995
+ Variance_5d_MA_CRM 3.635852           995
+           Close_BK 2.805273           995
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:54] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1000:
+            Feature     Gain  Window_Start
+ Variance_5d_MA_ICE 4.970643          1000
+ Variance_5d_MA_CRM 4.808267          1000
+Variance_5d_MA_AAPL 1.965032          1000
+Variance_45d_MA_OXY 1.699755          1000
+       Beta_45d_HYG 1.392668          1000
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:56] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:16:56] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:04] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1005:
+           Feature     Gain  Window_Start
+Variance_5d_MA_CRM 2.430925          1005
+        MA_45d_PXD 2.107740          1005
+Variance_5d_MA_ICE 1.480018          1005
+  Variance_45d_CRM 1.412442          1005
+          MA_45d_C 1.334399          1005
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:06] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:14] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1010:
+           Feature     Gain  Window_Start
+Variance_5d_MA_ICE 3.417424          1010
+Variance_5d_MA_CRM 2.945415          1010
+        MA_45d_EOG 1.502176          1010
+      MA_45d_BRK.B 1.390448          1010
+        MA_45d_PXD 1.282334          1010
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:16] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:16] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:24] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1015:
+           Feature     Gain  Window_Start
+        MA_45d_PXD 3.137945          1015
+Variance_5d_MA_CRM 2.947849          1015
+Variance_5d_MA_ICE 2.717420          1015
+      Beta_45d_DIA 1.487242          1015
+    Beta_45d_BRK.B 1.158513          1015
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:35] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1020:
+               Feature     Gain  Window_Start
+    Variance_5d_MA_CRM 2.832407          1020
+           MA_45d_AMGN 2.769117          1020
+            MA_45d_PXD 2.003217          1020
+             Close_GLD 1.987749          1020
+Variance_45d_MA_LBTY.A 1.603425          1020
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:45] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1025:
+            Feature     Gain  Window_Start
+ Variance_5d_MA_CRM 2.494822          1025
+         MA_45d_PXD 2.253084          1025
+       Beta_45d_DIA 2.207710          1025
+        MA_45d_AMGN 1.893789          1025
+Variance_5d_MA_AAPL 1.839155          1025
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:46] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:55] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1030:
+           Feature     Gain  Window_Start
+        MA_45d_XOP 6.912298          1030
+        MA_45d_PXD 2.773080          1030
+       MA_45d_AMGN 2.283316          1030
+Variance_5d_MA_CRM 1.902759          1030
+       MA_45d_TQQQ 1.095811          1030
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:57] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:17:57] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:05] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1035:
+            Feature     Gain  Window_Start
+Variance_5d_MA_AAPL 3.029277          1035
+         MA_45d_PXD 3.010297          1035
+        MA_45d_AMGN 2.729494          1035
+ Variance_45d_MA_MS 2.404616          1035
+Variance_45d_MA_EWJ 1.392839          1035
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:07] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:16] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1040:
+               Feature     Gain  Window_Start
+    Variance_45d_MA_MS 3.822069          1040
+            MA_45d_PXD 2.770135          1040
+Variance_45d_MA_LBTY.A 1.682543          1040
+   Variance_5d_MA_AAPL 1.589575          1040
+        Beta_45d_BRK.B 1.419634          1040
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:26] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1045:
+            Feature     Gain  Window_Start
+         MA_45d_PXD 2.896071          1045
+ Variance_45d_MA_MS 2.672788          1045
+     Beta_45d_BRK.B 1.416047          1045
+Variance_5d_MA_AAPL 1.413827          1045
+        MA_45d_TQQQ 1.219639          1045
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:28] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:28] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:36] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1050:
+            Feature     Gain  Window_Start
+ Variance_45d_MA_MS 2.692480          1050
+         MA_45d_PXD 2.264393          1050
+         MA_45d_XLK 2.050481          1050
+         Close_AVGO 1.947490          1050
+Variance_5d_MA_AAPL 1.765586          1050
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:47] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1055:
+            Feature     Gain  Window_Start
+         MA_45d_PXD 2.890471          1055
+         MA_45d_XLK 2.636477          1055
+ Variance_45d_MA_MS 2.623599          1055
+Variance_5d_MA_AAPL 1.288575          1055
+Variance_45d_LBTY.K 1.246952          1055
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:48] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:48] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:57] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1060:
+            Feature     Gain  Window_Start
+Variance_5d_MA_AAPL 3.100047          1060
+ Variance_45d_MA_MS 2.579692          1060
+         MA_45d_PXD 2.429374          1060
+ Variance_5d_MA_CAT 1.081059          1060
+       Beta_45d_IWB 0.957720          1060
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:59] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:18:59] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:08] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1065:
+               Feature     Gain  Window_Start
+    Variance_45d_MA_MS 2.794846          1065
+            MA_45d_PXD 2.424392          1065
+Variance_45d_MA_LBTY.A 2.218876          1065
+     Variance_45d_GILD 1.074841          1065
+   Variance_5d_MA_AAPL 1.028988          1065
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:09] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:18] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1070:
+            Feature     Gain  Window_Start
+ Variance_45d_MA_MS 3.052614          1070
+         MA_45d_SSO 2.367715          1070
+         MA_45d_PXD 2.307638          1070
+       Beta_45d_IWB 0.928684          1070
+Variance_5d_MA_AAPL 0.921684          1070
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:20] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:28] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1075:
+            Feature     Gain  Window_Start
+ Variance_45d_MA_MS 2.831365          1075
+         MA_45d_PXD 1.942100          1075
+  Variance_45d_EXPE 1.074110          1075
+Variance_45d_MA_FDX 0.933967          1075
+    Variance_45d_DD 0.931283          1075
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:30] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:30] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:38] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1080:
+            Feature     Gain  Window_Start
+ Variance_45d_MA_MS 3.993145          1080
+         MA_45d_PXD 3.252503          1080
+       Beta_45d_BLK 1.775506          1080
+Variance_45d_MA_MON 1.165668          1080
+          Close_EWZ 1.099047          1080
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:40] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:48] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1085:
+           Feature      Gain  Window_Start
+     Adj_Close_VLO 10.644245          1085
+     Adj_Close_EPD  9.624012          1085
+Variance_45d_MA_MS  5.128732          1085
+         Close_EPD  4.255450          1085
+        MA_45d_PXD  3.863193          1085
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:50] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:19:58] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1090:
+           Feature      Gain  Window_Start
+     Adj_Close_EPD 11.691596          1090
+      Beta_45d_EWG  6.743342          1090
+      Beta_45d_VTI  6.150209          1090
+         Close_EPD  5.545697          1090
+Variance_45d_MA_MO  4.399817          1090
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:20:00] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:20:00] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\learner.cc:740: 
+Parameters: { "predictor" } are not used.
+
+  warnings.warn(smsg, UserWarning)
+c:\Users\likapichu\anaconda3\Lib\site-packages\xgboost\core.py:158: UserWarning: [06:20:08] WARNING: C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-08cbc0333d8d4aae1-1\xgboost\xgboost-ci-windows\src\common\error_msg.cc:27: The tree method `gpu_hist` is deprecated since 2.0.0. To use GPU training, set the `device` parameter to CUDA instead.
+
+    E.g. tree_method = "hist", device = "cuda"
+
+  warnings.warn(smsg, UserWarning)
+
+Top Features for window starting at 1095:
+             Feature      Gain  Window_Start
+       Adj_Close_EPD 18.655540          1095
+           Close_EPD 16.498152          1095
+        Beta_45d_VTI 15.908395          1095
+Variance_45d_MA_ILMN  4.550593          1095
+  Variance_45d_MA_MS  3.871324          1095
+
+=== Global Average Feature Importance (Gain) ===
+               Feature      Gain
+   Variance_45d_MA_VXX 43.066895
+   Variance_45d_MA_WMT 25.874513
+             Close_TLT 20.573176
+    Variance_45d_MA_GS 17.781573
+  Variance_45d_MA_REGN 10.026874
+   Variance_45d_MA_IWB  7.628883
+   Variance_5d_MA_NFLX  4.934748
+         Adj_Close_TLT  4.614811
+     Variance_45d_MA_C  4.363616
+   Variance_45d_MA_MET  3.858973
+   Variance_5d_MA_CELG  3.614732
+             Close_IEF  3.604900
+ Variance_45d_MA_BRK.B  3.519033
+         Adj_Close_PEP  2.793272
+         Adj_Close_SLB  2.457907
+   Variance_45d_MA_PEP  2.374870
+             Close_NKE  2.355972
+          Beta_45d_KMB  2.128368
+   Variance_45d_MA_WMB  2.090097
+          Beta_45d_FDX  2.068997
+     Variance_5d_MA_KO  1.964876
+             Close_HAL  1.956237
+   Variance_45d_MA_SLB  1.867094
+    Variance_5d_MA_WMB  1.800821
+             Close_PEP  1.764593
+   Variance_5d_MA_ORCL  1.764422
+   Variance_45d_MA_WFC  1.747288
+   Variance_45d_MA_AGN  1.688941
+          Beta_45d_BAC  1.665619
+             Close_LLY  1.609426
+         Adj_Close_DUK  1.454187
+       Variance_45d_KO  1.453321
+   Variance_45d_MA_VOO  1.446148
+      Variance_45d_UPS  1.393656
+    Variance_5d_MA_ICE  1.340437
+             Close_DIS  1.279835
+   Variance_5d_MA_REGN  1.253705
+   Variance_45d_MA_MDT  1.228669
+   Variance_45d_MA_IWM  1.207143
+   Variance_45d_MA_TXN  1.176653
+          Beta_45d_XLI  1.138336
+    Variance_5d_MA_CRM  1.136292
+          Beta_45d_XOM  1.106474
+    Variance_45d_MA_MS  1.102663
+   Variance_45d_MA_MDY  1.099406
+    Variance_45d_MA_GE  1.078222
+  Variance_45d_MA_AABA  1.009240
+             Close_EEM  0.984502
+         Adj_Close_EPD  0.937868
+   Variance_45d_MA_JNJ  0.920369
+  Variance_45d_MA_ALXN  0.919451
+          Adj_Close_BA  0.905420
+    Variance_5d_MA_CMG  0.902870
+         Adj_Close_KMB  0.881478
+             Close_DUK  0.880216
+    Variance_5d_MA_DUK  0.878139
+         Adj_Close_WMT  0.876524
+   Variance_45d_MA_IJH  0.826029
+   Variance_45d_MA_SPG  0.822313
+      Variance_45d_LMT  0.810957
+   Variance_45d_MA_VNQ  0.792229
+   Variance_5d_MA_AMLP  0.786668
+      Variance_45d_SHY  0.783822
+  Variance_45d_MA_AAPL  0.778099
+        Beta_45d_BRK.B  0.750022
+   Variance_45d_MA_IVV  0.738285
+     Variance_45d_CELG  0.704412
+      Variance_45d_AGN  0.681804
+          Beta_45d_VTI  0.659763
+        Adj_Close_ALXN  0.658057
+         Beta_45d_HEDJ  0.655536
+          Beta_45d_UTX  0.641889
+             MA_5d_COP  0.634140
+    Variance_5d_MA_IBB  0.632765
+            MA_45d_FDX  0.626375
+    Variance_5d_MA_AGN  0.625272
+      Variance_45d_XLK  0.603953
+            MA_45d_PXD  0.598250
+      Variance_45d_DXJ  0.581632
+             Close_GDX  0.580570
+   Variance_5d_MA_AAPL  0.579094
+          Adj_Close_HD  0.571217
+    Variance_5d_MA_SHY  0.567568
+             Close_CVX  0.561269
+          Beta_45d_DUK  0.561009
+    Variance_5d_MA_DIA  0.556694
+      Variance_45d_DUK  0.552695
+   Variance_45d_MA_BLK  0.549960
+           Beta_45d_PG  0.544763
+           Beta_45d_CB  0.535098
+          Beta_45d_HYG  0.528390
+        Adj_Close_SBUX  0.522970
+    Variance_5d_MA_EPD  0.520020
+             Close_VWO  0.519967
+         Adj_Close_IBB  0.519101
+      Variance_45d_XLP  0.514995
+         Beta_45d_SWKS  0.506109
+           Beta_45d_MO  0.494605
+              Close_BA  0.493778
+   Variance_45d_MA_DAL  0.493158
+   Variance_45d_MA_IBM  0.490354
+Variance_45d_MA_GOOG.L  0.483220
+   Variance_45d_MA_CVS  0.480811
+    Variance_45d_MA_PG  0.479405
+  Variance_45d_MA_BIIB  0.473819
+    Variance_5d_MA_XOM  0.473254
+             Close_WMT  0.472824
+            Close_AMLP  0.468321
+ Variance_5d_MA_LBTY.K  0.466015
+   Variance_5d_MA_ILMN  0.464409
+      Variance_45d_DIA  0.460805
+      Variance_45d_HYG  0.459150
+         Adj_Close_GDX  0.458159
+  Variance_45d_MA_EXPE  0.457329
+   Variance_45d_MA_DOW  0.456637
+             Close_OXY  0.442491
+      Variance_45d_MRK  0.441990
+          Beta_45d_APC  0.439436
+      Variance_45d_XLV  0.434577
+             Close_KMB  0.431597
+        Adj_Close_AMLP  0.431540
+          Beta_45d_AXP  0.425506
+    Variance_5d_MA_XLV  0.422843
+            Close_ALXN  0.422193
+            MA_45d_TXN  0.421720
+         Adj_Close_CVX  0.420912
+           MA_45d_AMGN  0.417550
+      Variance_45d_IBB  0.417152
+   Variance_45d_MA_SPY  0.412175
+   Variance_45d_MA_ABT  0.408148
+    Variance_5d_MA_TWX  0.408095
+        Adj_Close_UPRO  0.405922
+      Variance_45d_CRM  0.401667
+          Adj_Close_WW  0.389392
+          Beta_45d_IYR  0.388435
+            Close_BIDU  0.387315
+   Variance_45d_MA_VEU  0.383221
+   Variance_45d_MA_MCK  0.372740
+   Variance_45d_MA_ICE  0.372161
+  Variance_45d_MA_CELG  0.370504
+      Variance_45d_XLY  0.366713
+  Variance_45d_MA_NFLX  0.365555
+        Adj_Close_EXPE  0.363301
+             Close_IVV  0.354522
+      Variance_45d_EPD  0.352725
+  Variance_45d_MA_COST  0.351624
+  Variance_45d_MA_UPRO  0.348338
+   Variance_45d_MA_UNH  0.348096
+   Variance_45d_LBTY.K  0.347769
+          Beta_45d_ABT  0.346358
+             Close_EPD  0.345990
+      Variance_45d_BND  0.342864
+             MA_45d_VZ  0.342653
+    Variance_5d_MA_LMT  0.342061
+       Beta_45d_LBTY.A  0.341606
+  Variance_45d_MA_TSLA  0.339291
+          Beta_45d_VEA  0.329646
+   Variance_45d_MA_MCD  0.328248
+   Variance_45d_MA_BMY  0.326380
+         Adj_Close_OXY  0.324827
+      Adj_Close_TFCF.A  0.323384
+      Variance_45d_TWX  0.322650
+          Beta_45d_IWB  0.321682
+      Variance_45d_IVV  0.316341
+      Variance_45d_SLB  0.313084
+            Close_SBUX  0.308199
+      Variance_45d_QQQ  0.304838
+             MA_45d_MO  0.304511
+         Beta_45d_AMGN  0.302798
+     Variance_45d_MDLZ  0.300217
+         Beta_45d_REGN  0.299629
+           MA_45d_ALXN  0.298047
+   Variance_5d_MA_ATVI  0.297906
+Variance_45d_MA_LBTY.A  0.297069
+   Variance_45d_MA_CAT  0.296478
+    Variance_5d_MA_ABT  0.291018
+          Beta_45d_TWX  0.290647
+    Variance_5d_MA_MCK  0.288528
+              Close_KR  0.287899
+             MA_45d_WW  0.286592
+          Beta_45d_MCK  0.285008
+   Variance_45d_MA_XLB  0.283253
+            MA_45d_GLD  0.282552
+      Variance_45d_VOO  0.282346
+         Adj_Close_TXN  0.281953
+             Close_XLY  0.279129
+      Variance_45d_IWF  0.277287
+     Variance_45d_MA_V  0.271001
+          Beta_45d_SLB  0.269986
+   Variance_45d_MA_AMJ  0.269514
+              Close_HD  0.269133
+          Beta_45d_EPD  0.268964
+          Beta_45d_TGT  0.267400
+   Variance_45d_MA_OXY  0.266186
+   Variance_45d_MA_CRM  0.263883
+    Variance_45d_MA_SO  0.262782
+    Variance_5d_MA_CVS  0.258543
+          Beta_45d_WMB  0.258218
+    Variance_45d_MA_MA  0.257587
+      Variance_45d_SPY  0.256581
+          Beta_45d_CVX  0.256198
+          Beta_45d_TLT  0.255986
+          Adj_Close_KR  0.255406
+           MA_45d_TQQQ  0.253757
+        Adj_Close_INTC  0.252906
+         Adj_Close_XLY  0.252760
+  Variance_45d_MA_SCHW  0.249761
+           MA_45d_CELG  0.249170
+          Beta_45d_VWO  0.248474
+   Variance_45d_MA_AIG  0.248047
+       Variance_45d_HD  0.246600
+   Variance_5d_MA_AMGN  0.245177
+    Variance_45d_MA_MO  0.243688
+         Beta_45d_AABA  0.242890
+   Variance_45d_MA_XOM  0.242888
+      Variance_45d_WMB  0.241727
+    Variance_45d_MA_KR  0.241717
+    Variance_5d_MA_BND  0.238896
+          Beta_45d_DIS  0.238779
+              Close_WW  0.238467
+   Variance_45d_MA_DXJ  0.237693
+   Variance_45d_MA_SSO  0.236969
+            Close_REGN  0.236211
+  Variance_45d_MA_INTC  0.236066
+   Variance_45d_MA_SHY  0.234413
+          Close_CMCS.A  0.233533
+  Variance_45d_MA_BIDU  0.232615
+             Close_JNJ  0.230271
+       Beta_45d_CMCS.A  0.229886
+   Variance_45d_MA_BND  0.229762
+    Variance_5d_MA_CAT  0.228768
+            MA_45d_MRK  0.228234
+   Variance_45d_MA_MMM  0.227812
+   Variance_45d_MA_HYG  0.226972
+  Variance_45d_MA_ORCL  0.225416
+            MA_45d_GDX  0.225397
+          Beta_45d_XLY  0.221436
+          MA_45d_BRK.B  0.219791
+         Adj_Close_AIG  0.219685
+         Adj_Close_WMB  0.218906
+     Variance_45d_MA_T  0.218290
+   Variance_45d_MA_ACN  0.217992
+    Variance_5d_MA_KMB  0.217404
+          Beta_45d_VEU  0.216718
+          Beta_45d_UNH  0.215764
+Variance_45d_MA_LBTY.K  0.214847
+   Variance_5d_MA_COST  0.214102
+    Variance_45d_MA_BP  0.212599
+         Beta_45d_ANDV  0.211702
+       Variance_45d_PM  0.211319
+  Variance_45d_MA_AMLP  0.211208
+           MA_45d_ESRX  0.210372
+          Beta_45d_DAL  0.210244
+       Adj_Close_BRK.B  0.209000
+        Adj_Close_REGN  0.208920
+            MA_45d_UPS  0.208142
+      Variance_45d_XOM  0.207575
+          Beta_45d_SHY  0.206463
+    Variance_5d_MA_PXD  0.205900
+   Variance_45d_MA_GDX  0.205737
+            Close_INTC  0.205376
+            Close_SCHW  0.204875
+    Variance_45d_MA_DD  0.204235
+          Beta_45d_EWG  0.202991
+            Close_EXPE  0.199439
+   Variance_45d_MA_EFA  0.199327
+          Beta_45d_XLK  0.199183
+   Variance_45d_MA_JPM  0.195526
+          MA_5d_LBTY.A  0.194272
+      Variance_45d_VXX  0.192407
+     Variance_45d_REGN  0.192123
+            Close_TQQQ  0.190538
+           Beta_45d_BA  0.189087
+      Variance_45d_VTV  0.187306
+             Close_AIG  0.187106
+          Adj_Close_SO  0.186453
+         MA_45d_TFCF.A  0.184680
+             Close_SLB  0.184037
+       Variance_45d_WW  0.182777
+     Variance_5d_MA_HD  0.182156
+         Beta_45d_GILD  0.178857
+          Variance_45d  0.177495
+    Variance_5d_MA_HYG  0.177169
+             Close_BAC  0.176858
+              HAR_Pred  0.175284
+   Variance_5d_MA_SWKS  0.174629
+      Variance_45d_USB  0.174468
+            Close_CELG  0.173856
+   Variance_45d_MA_IEF  0.173186
+      Variance_45d_AMJ  0.173034
+     Variance_45d_AMLP  0.172228
+         MA_45d_CMCS.A  0.170935
+        Variance_5d_MA  0.170473
+      Variance_45d_XLF  0.169983
+   Variance_45d_MA_EZU  0.169774
+          Close_TFCF.A  0.169320
+       Variance_45d_DD  0.168075
+            MA_45d_OXY  0.166485
+          Beta_45d_UPS  0.166221
+    Variance_45d_MA_CB  0.165965
+             Close_AGN  0.165839
+     Variance_45d_AAPL  0.165308
+     Variance_45d_TQQQ  0.164501
+            MA_45d_XOP  0.162791
+          Beta_45d_IWD  0.161974
+  Variance_45d_MA_ESRX  0.161863
+      Variance_5d_MA_V  0.161728
+              Close_VZ  0.161276
+    Variance_5d_MA_COP  0.160474
+  Variance_45d_MA_HEDJ  0.160185
+             MA_5d_AXP  0.158749
+   Variance_45d_MA_KMB  0.158643
+   Variance_45d_MA_EWJ  0.158604
+             Close_GLD  0.158329
+   Variance_45d_MA_HON  0.157881
+      Variance_45d_ABT  0.157786
+      Variance_45d_EWJ  0.156994
+        Adj_Close_ILMN  0.156948
+          Beta_45d_TXN  0.156239
+          Beta_45d_IBM  0.155888
+          MA_5d_LBTY.K  0.155744
+              Close_SO  0.155682
+          Adj_Close_CB  0.155264
+      Variance_45d_EWZ  0.154877
+    Variance_5d_MA_AGG  0.153860
+   Variance_45d_MA_VLO  0.153799
+     Variance_45d_SPXU  0.153201
+     Variance_5d_MA_KR  0.152553
+            MA_45d_SSO  0.152140
+         Beta_45d_AMZN  0.150392
+          Beta_45d_NKE  0.150278
+     Variance_45d_ATVI  0.150059
+   Variance_5d_MA_EXPE  0.148858
+  Variance_45d_MA_ILMN  0.148790
+    Variance_5d_MA_UTX  0.148374
+            MA_45d_ABT  0.147885
+    Variance_5d_MA_DXJ  0.147667
+      Variance_45d_PEP  0.146384
+  Variance_45d_MA_GILD  0.145913
+             MA_45d_HD  0.145165
+    Variance_5d_MA_MET  0.144786
+         Adj_Close_VLO  0.143894
+   Variance_45d_MA_USO  0.143544
+              Close_CB  0.142684
+   Variance_45d_MA_DUK  0.142499
+              Close_GS  0.141998
+      Variance_45d_TXN  0.140988
+            MA_45d_EOG  0.140221
+          Beta_45d_SSO  0.139152
+    Variance_5d_MA_XLU  0.138825
+   Variance_45d_MA_MON  0.138682
+          Beta_45d_PXD  0.138089
+      Variance_45d_CVX  0.137732
+            Close_AMZN  0.137706
+          Beta_45d_XLV  0.137510
+     Variance_45d_AMGN  0.137433
+          Beta_45d_WFC  0.136901
+            MA_45d_DAL  0.136534
+      Variance_45d_XLI  0.134570
+   Variance_45d_MA_UNP  0.134119
+          Beta_45d_AGN  0.133253
+   Variance_45d_MA_VEA  0.132198
+  Variance_45d_MA_MSFT  0.132085
+          Adj_Close_GS  0.131569
+   Variance_45d_MA_TGT  0.130848
+             Close_VTV  0.130557
+             MA_5d_HAL  0.130479
+             Close_WMB  0.128579
+      Variance_45d_AET  0.128524
+          Beta_45d_DIA  0.128366
+         Adj_Close_EWZ  0.127699
+         Adj_Close_TGT  0.127332
+    Variance_5d_MA_EWZ  0.127278
+          Beta_45d_UNP  0.127243
+             Close_AGG  0.126045
+          Beta_45d_UAA  0.125742
+          Beta_45d_BDX  0.124241
+             Close_CRM  0.123265
+    Variance_5d_MA_VXX  0.122887
+            Close_SPXU  0.121893
+          Beta_45d_GDX  0.121785
+      Variance_45d_IWM  0.121525
+     Variance_45d_MA_F  0.120591
+         Beta_45d_ILMN  0.120424
+            MA_45d_QQQ  0.119725
+       Variance_45d_GE  0.119617
+              MA_45d_C  0.119601
+         Adj_Close_LLY  0.119257
+   Variance_45d_MA_AGG  0.119218
+           Beta_45d_BK  0.118743
+   Variance_45d_MA_XOP  0.118601
+   Variance_45d_GOOG.L  0.118411
+      Variance_45d_SSO  0.118190
+     Variance_45d_COST  0.117509
+      Variance_45d_TNA  0.117374
+          Beta_45d_IWR  0.117180
+          Beta_45d_VGK  0.117076
+     Variance_45d_INTC  0.116658
+        Adj_Close_AMZN  0.115898
+   Variance_5d_MA_MDLZ  0.115015
+      Variance_45d_MDY  0.114952
+    Variance_5d_MA_CVX  0.114919
+  Variance_45d_MA_SWKS  0.114678
+   Variance_45d_MA_XLP  0.114597
+          Beta_45d_BMY  0.114386
+    Variance_5d_MA_IYR  0.114116
+              Close_BK  0.113745
+   Variance_45d_MA_WBA  0.113721
+            MA_45d_XLK  0.113508
+    Variance_5d_MA_SPG  0.113470
+        SPY_Return_ICE  0.113440
+    Variance_5d_MA_PEP  0.113377
+     Variance_45d_GILD  0.113375
+      Variance_45d_IWD  0.113185
+        Adj_Close_AVGO  0.113098
+     Variance_45d_AVGO  0.112587
+         Beta_45d_AMLP  0.112505
+         Adj_Close_VTV  0.111544
+          Beta_45d_IVV  0.111503
+          Beta_45d_DOW  0.110110
+         Adj_Close_AGN  0.109946
+    Variance_5d_MA_BHC  0.109767
+            MA_45d_BDX  0.108646
+              Close_PM  0.107724
+   Variance_45d_MA_PFE  0.107618
+   Variance_45d_MA_NKE  0.107378
+            MA_45d_ICE  0.106922
+         Adj_Close_XLI  0.106726
+    Variance_5d_MA_WMT  0.106638
+          Beta_45d_EWZ  0.106239
+       Variance_45d_MS  0.106092
+       Variance_45d_BA  0.105350
+          Beta_45d_EEM  0.104922
+   Variance_45d_MA_UPS  0.104744
+             Close_IWF  0.104216
+      Variance_45d_WMT  0.101869
+       Variance_45d_KR  0.101621
+    Variance_5d_MA_USO  0.101540
+              Close_DD  0.101497
+     Variance_5d_MA_BA  0.101413
+          Beta_45d_BLK  0.101174
+   Variance_5d_MA_SCHW  0.100886
+          Adj_Close_MO  0.100314
+        Adj_Close_MSFT  0.100299
+     Variance_45d_ANDV  0.100108
+        Adj_Close_BIDU  0.099611
+   Variance_45d_MA_DIS  0.099436
+     Variance_5d_MA_MA  0.099367
+            Close_UPRO  0.099309
+         Beta_45d_SPXU  0.099027
+     Variance_45d_AABA  0.098582
+          Beta_45d_COP  0.098556
+          Beta_45d_USO  0.098253
+    Variance_5d_MA_MMM  0.097854
+            MA_45d_MET  0.097324
+         Adj_Close_ABT  0.097272
+            MA_45d_UAA  0.097123
+         Adj_Close_IWD  0.096464
+   Variance_45d_MA_VGK  0.096414
+            MA_45d_LLY  0.096067
+           MA_45d_UPRO  0.094232
+         Adj_Close_MRK  0.094165
+     Variance_45d_TSLA  0.094146
+    Variance_45d_MA_VZ  0.093753
+   Variance_5d_MA_INTC  0.093063
+            Close_BRCM  0.092957
+          Beta_45d_OXY  0.092851
+             MA_45d_BP  0.092822
+  Variance_45d_MA_AMZN  0.092487
+           MA_45d_AMLP  0.091816
+   Variance_45d_MA_AET  0.091273
+    Variance_45d_MA_KO  0.090235
+            Volume_SPG  0.090196
+      Variance_45d_WBA  0.089433
+            MA_45d_CAT  0.089355
+             Close_WBA  0.089346
+            MA_45d_NKE  0.089269
+           MA_45d_ATVI  0.089164
+        Adj_Close_TQQQ  0.088770
+      Adj_Close_GOOG.L  0.088582
+            MA_45d_USB  0.088314
+          Beta_45d_PFE  0.087958
+   Variance_45d_MA_FDX  0.087756
+   Variance_5d_MA_BRCM  0.087520
+          Beta_45d_HAL  0.087083
+          Beta_45d_EFA  0.086787
+   Variance_45d_CMCS.A  0.086491
+        Adj_Close_BRCM  0.086420
+             MA_45d_KO  0.086331
+            MA_45d_CMG  0.086330
+   Variance_5d_MA_AABA  0.086163
+             Close_EWZ  0.085535
+         Adj_Close_BHC  0.085517
+   Variance_45d_MA_COP  0.085229
+           Beta_45d_KO  0.085177
+            MA_45d_TWX  0.084662
+         Beta_45d_ALXN  0.084626
+             Close_AET  0.084401
+         Adj_Close_MCK  0.084121
+         Beta_45d_ORCL  0.084058
+         Adj_Close_BAC  0.083997
+    Variance_5d_MA_TGT  0.083630
+      Variance_45d_MET  0.083370
+             MA_5d_EPD  0.083299
+          Beta_45d_MON  0.083189
+      Adj_Close_CMCS.A  0.082987
+  Variance_45d_MA_NXPI  0.082970
+         Adj_Close_QQQ  0.082780
+   Variance_45d_MA_VWO  0.082770
+    Variance_5d_MA_DIS  0.082646
+   Variance_45d_MA_UAA  0.082634
+              Close_MO  0.082035
+             MA_45d_BK  0.082028
+           MA_45d_INTC  0.081300
+     Variance_5d_MA_MO  0.081277
+          Beta_45d_BHC  0.081189
+          Beta_45d_GLD  0.080944
+            Close_AAPL  0.080874
+  Variance_45d_MA_MDLZ  0.080851
+            Close_NFLX  0.080572
+      Variance_45d_IYR  0.080485
+            MA_45d_XLB  0.080359
+        Adj_Close_ESRX  0.080236
+            MA_45d_MON  0.080008
+            MA_45d_VGK  0.079405
+      Variance_45d_PXD  0.079394
+              MA_45d_F  0.079346
+   Variance_45d_MA_TLT  0.078939
+             Close_LOW  0.078850
+    Variance_5d_MA_AIG  0.078849
+            MA_45d_IWF  0.078165
+        Variance_45d_T  0.078078
+            Close_ANDV  0.077748
+    Variance_45d_MA_WW  0.077631
+   Variance_45d_MA_LLY  0.077563
+          Beta_45d_XOP  0.077549
+     Variance_5d_MA_BK  0.077368
+          Beta_45d_VXX  0.077009
+   Variance_5d_MA_TQQQ  0.076778
+          Beta_45d_SPG  0.076602
+   Variance_5d_MA_QCOM  0.076297
+         Adj_Close_GLD  0.076164
+   Variance_45d_MA_SIG  0.075972
+             MA_5d_HYG  0.075453
+      Variance_45d_IWB  0.075301
+             MA_5d_XLK  0.075271
+             Close_ABT  0.075254
+   Variance_45d_MA_XLU  0.074954
+         Adj_Close_IWF  0.074863
+      Variance_45d_UNP  0.074755
+          Beta_45d_LMT  0.074541
+            MA_45d_XOM  0.074339
+      Variance_45d_COP  0.074331
+             Close_VEU  0.073744
+            MA_45d_XLY  0.073710
+          Beta_45d_IJH  0.073700
+          Beta_45d_EOG  0.073426
+        Adj_Close_SCHW  0.073173
+  Variance_45d_MA_BKNG  0.072849
+   Variance_45d_MA_EWG  0.072606
+     Variance_5d_MA_PM  0.071964
+    Variance_45d_MA_MU  0.071701
+      Variance_45d_UTX  0.071556
+          Adj_Close_BK  0.071438
+          Beta_45d_UAL  0.071282
+     Variance_45d_ILMN  0.071136
+            MA_45d_TNA  0.071132
+           MA_45d_AVGO  0.070898
+      Variance_45d_CAT  0.070836
+           MA_45d_MSFT  0.070704
+   Variance_45d_MA_VTI  0.070510
+      Variance_45d_ICE  0.070299
+     Variance_5d_MA_BP  0.069653
+         Beta_45d_NFLX  0.069618
+            MA_45d_LMT  0.069381
+           MA_45d_REGN  0.069351
+          Beta_45d_TNA  0.069336
+   Variance_45d_MA_USB  0.069190
+  Variance_45d_MA_CSCO  0.068841
+      Variance_45d_GDX  0.068759
+        Adj_Close_CELG  0.068734
+        Adj_Close_ANDV  0.068354
+           MA_45d_SPXU  0.067978
+           MA_45d_GILD  0.067741
+            MA_45d_AGN  0.067713
+    Variance_5d_MA_EWJ  0.067547
+         Adj_Close_IWN  0.067440
+    Variance_5d_MA_EFA  0.067327
+ Variance_5d_MA_GOOG.L  0.067273
+           Beta_45d_VZ  0.067218
+          Close_GOOG.L  0.067180
+              Close_GE  0.067035
+      Variance_45d_IEF  0.066733
+   Variance_45d_MA_CMG  0.066570
+      Variance_45d_VTI  0.066547
+             Close_XLU  0.066505
+            Close_AVGO  0.066424
+      Variance_45d_AIG  0.066114
+          Beta_45d_XLE  0.065497
+    Variance_5d_MA_XOP  0.065484
+           Volume_SBUX  0.065442
+      Variance_45d_UAA  0.065258
+    Variance_5d_MA_HON  0.065189
+   Variance_45d_MA_UTX  0.065188
+            MA_45d_PFE  0.065053
+            MA_45d_AIG  0.065052
+      Variance_45d_WFC  0.064765
+     Variance_45d_BKNG  0.064713
+     Variance_45d_SBUX  0.064702
+            Beta_45d_F  0.064627
+         Adj_Close_NKE  0.064608
+     Variance_45d_BRCM  0.064580
+             MA_5d_AIG  0.064466
+         Beta_45d_BIDU  0.064430
+         Adj_Close_CRM  0.064377
+            Close_MSFT  0.064221
+    Variance_5d_MA_MCD  0.064131
+         Beta_45d_SBUX  0.063724
+     Variance_45d_HEDJ  0.063502
+         Beta_45d_NXPI  0.063482
+          Beta_45d_VLO  0.063287
+          Beta_45d_MRK  0.062893
+      Variance_45d_XLB  0.062865
+             Close_IWB  0.062745
+            MA_45d_EWJ  0.062738
+         MA_45d_LBTY.A  0.062729
+           Beta_45d_BP  0.062610
+         Adj_Close_LOW  0.062502
+  Variance_45d_MA_SPXU  0.062348
+       Variance_45d_PG  0.062285
+     Variance_45d_UPRO  0.062234
+          Beta_45d_AIG  0.061798
+    Variance_5d_MA_IEF  0.061750
+      Variance_45d_UNH  0.061700
+    Variance_45d_BRK.B  0.061633
+            MA_45d_HAL  0.061040
+    Variance_5d_MA_MDT  0.060585
+      Variance_45d_JNJ  0.060442
+   Variance_45d_MA_PXD  0.060336
+          Beta_45d_HON  0.060293
+      Variance_45d_JPM  0.060283
+          Beta_45d_QQQ  0.060262
+    Variance_5d_MA_IWF  0.060258
+        Adj_Close_SPXU  0.060243
+   Variance_5d_MA_ALXN  0.060035
+      Variance_45d_XLU  0.059980
+          Beta_45d_IEF  0.059911
+              Close_PG  0.059895
+   Variance_45d_MA_UAL  0.059779
+              Close_MA  0.059603
+         Adj_Close_VWO  0.059542
+    Variance_45d_MA_BK  0.059290
+             MA_45d_BA  0.059043
+     Variance_5d_MA_WW  0.058923
+        Adj_Close_AAPL  0.058871
+    Variance_5d_MA_JPM  0.058829
+     Variance_45d_NFLX  0.058740
+   Variance_45d_MA_IBB  0.058662
+           Adj_Close_T  0.058052
+      Variance_45d_SPG  0.057742
+             Close_MON  0.057468
+         Adj_Close_USB  0.057460
+    Variance_5d_MA_AET  0.057397
+          Beta_45d_SIG  0.057290
+          Beta_45d_IWF  0.057130
+            Close_BKNG  0.056891
+         Adj_Close_WFC  0.056871
+          MA_5d_GOOG.L  0.056856
+             Close_ACN  0.056706
+   Variance_45d_MA_BAC  0.056641
+         Adj_Close_BLK  0.056357
+ Variance_5d_MA_CMCS.A  0.056249
+          Beta_45d_CVS  0.056067
+           MA_45d_AMZN  0.055956
+         Adj_Close_CMG  0.055936
+            Close_ATVI  0.055614
+         Adj_Close_AGG  0.055231
+      Variance_45d_FDX  0.055057
+         Beta_45d_QCOM  0.054909
+     Variance_45d_EXPE  0.054633
+Variance_45d_MA_TFCF.A  0.054614
+      Variance_45d_VNQ  0.054583
+         Adj_Close_BDX  0.053935
+   Variance_45d_MA_MRK  0.053931
+             Close_EFA  0.053836
+      Variance_45d_TGT  0.053709
+         Beta_45d_ATVI  0.053628
+            Close_BIIB  0.053306
+            MA_45d_APC  0.053300
+      Variance_45d_BDX  0.053127
+     Variance_5d_MA_GE  0.053072
+          Adj_Close_KO  0.052951
+            Volume_ABT  0.052917
+         Adj_Close_HAL  0.052714
+           MA_45d_ORCL  0.052524
+  Variance_45d_MA_AMGN  0.052463
+         Beta_45d_AAPL  0.052424
+         Adj_Close_VEU  0.052356
+        Log_Return_USO  0.052271
+            MA_45d_LOW  0.052084
+            MA_45d_DIS  0.051924
+             Close_UNP  0.051523
+            MA_45d_DOW  0.051274
+         Adj_Close_EOG  0.051088
+             Close_ICE  0.050999
+   Variance_45d_MA_TNA  0.050789
+         Adj_Close_XLV  0.050745
+          Beta_45d_CMG  0.050643
+             Close_CMG  0.050491
+          Beta_45d_XLU  0.050037
+         Beta_45d_COST  0.049906
+    Variance_5d_MA_TLT  0.049839
+            MA_45d_WMT  0.049675
+             Close_BND  0.049571
+      Variance_45d_MCD  0.049525
+         Adj_Close_BND  0.049493
+           Beta_45d_PM  0.049456
+          Beta_45d_USB  0.049423
+       Log_Return_SWKS  0.049409
+          Adj_Close_MA  0.048920
+    Variance_5d_MA_VEU  0.048807
+     Variance_45d_AMZN  0.048730
+           Beta_45d_MS  0.048724
+         Beta_45d_EXPE  0.048574
+          Beta_45d_VOO  0.048536
+             Close_PFE  0.048234
+       Variance_45d_MO  0.048114
+         Adj_Close_MET  0.048028
+             Close_IWR  0.048017
+         Beta_45d_TSLA  0.047938
+    Variance_5d_MA_GLD  0.047934
+       Variance_45d_GS  0.047911
+             Close_UAA  0.047840
+            Close_TSLA  0.047831
+    Variance_5d_MA_BAC  0.047737
+      Variance_45d_VWO  0.047421
+     Variance_45d_MSFT  0.047394
+             MA_5d_GDX  0.047374
+      Variance_45d_KMB  0.047320
+            MA_5d_ALXN  0.047135
+         Adj_Close_BMY  0.046794
+         Adj_Close_EEM  0.046766
+   Variance_45d_MA_BDX  0.046734
+     Variance_5d_MA_GS  0.046450
+    Variance_5d_MA_SIG  0.046417
+             Close_JPM  0.046358
+            MA_45d_XLP  0.046282
+    Variance_5d_MA_LOW  0.046237
+          Beta_45d_ICE  0.046150
+   Variance_5d_MA_HEDJ  0.045868
+         Adj_Close_AMJ  0.045806
+      Variance_45d_VEU  0.045796
+         Adj_Close_EWJ  0.045744
+    Variance_5d_MA_EOG  0.045744
+     Variance_5d_MA_VZ  0.045529
+    Variance_5d_MA_UAL  0.045511
+   Variance_5d_MA_SPXU  0.045361
+               MA_5d_V  0.045215
+         Beta_45d_BRCM  0.045187
+           Close_BRK.B  0.045110
+      Variance_45d_IJH  0.045004
+          Beta_45d_XLP  0.044982
+              MA_5d_MA  0.044903
+  Variance_45d_MA_QCOM  0.044742
+      Variance_45d_IWN  0.044721
+   Variance_5d_MA_BIIB  0.044604
+           Beta_45d_GE  0.044558
+            Volume_UNP  0.044431
+     Variance_5d_MA_SO  0.044240
+        Variance_45d_F  0.044116
+           Beta_45d_SO  0.044071
+          Beta_45d_BND  0.044041
+         Adj_Close_ACN  0.043952
+    Variance_5d_MA_EWG  0.043904
+   Variance_45d_MA_VTV  0.043861
+          Adj_Close_GE  0.043808
+            MA_45d_JNJ  0.043635
+        Variance_45d_V  0.043334
+            MA_45d_SLB  0.043177
+             Close_FXI  0.043122
+      Variance_45d_MCK  0.043097
+           MA_45d_AABA  0.043011
+           Volume_TQQQ  0.042812
+     Variance_45d_SCHW  0.042756
+            MA_45d_MDT  0.042681
+ Variance_5d_MA_TFCF.A  0.042603
+       Variance_45d_BK  0.042556
+             Close_QQQ  0.042355
+             Close_TGT  0.042270
+  Variance_45d_MA_TQQQ  0.042107
+             MA_5d_TNA  0.041857
+         Adj_Close_TNA  0.041749
+           Beta_45d_MA  0.041542
+   Variance_45d_MA_TWX  0.041500
+          Beta_45d_LLY  0.041387
+          Beta_45d_VTV  0.041114
+     Variance_5d_MA_DD  0.040830
+             Close_PXD  0.040796
+    Variance_5d_MA_UNP  0.040664
+   Variance_45d_MA_EWZ  0.040609
+            MA_45d_XLI  0.040536
+      Variance_45d_BHC  0.040455
+             MA_5d_CVX  0.040428
+         Adj_Close_PXD  0.040391
+    Variance_5d_MA_APC  0.040189
+             Close_IWM  0.040183
+    Variance_5d_MA_VGK  0.040009
+     Variance_5d_MA_CB  0.039738
+       Beta_45d_LBTY.K  0.039639
+          Beta_45d_MMM  0.039592
+            Close_ESRX  0.039462
+      Variance_45d_EOG  0.039273
+      Variance_5d_MA_F  0.039183
+             MA_5d_ACN  0.039129
+         Adj_Close_IVV  0.039077
+          Beta_45d_MDY  0.039067
+   Variance_45d_MA_IWN  0.038963
+      Variance_45d_APC  0.038817
+        Adj_Close_ATVI  0.038776
+      Variance_45d_BAC  0.038739
+           MA_45d_AAPL  0.038668
+          Beta_45d_AMJ  0.038582
+            MA_45d_DUK  0.038443
+             MA_5d_AGN  0.038271
+          Beta_45d_IWN  0.038195
+         Adj_Close_JNJ  0.038173
+         Beta_45d_INTC  0.038105
+       Variance_45d_SO  0.038029
+   Variance_45d_MA_CVX  0.038027
+         Beta_45d_UPRO  0.038020
+          Beta_45d_CAT  0.037939
+          Beta_45d_JNJ  0.037910
+            MA_45d_WBA  0.037889
+         Beta_45d_CSCO  0.037722
+      Variance_45d_MDT  0.037701
+   Variance_45d_MA_AXP  0.037693
+         Adj_Close_FXI  0.037681
+             Close_MRK  0.037673
+            MA_45d_EWZ  0.037656
+   Variance_5d_MA_TSLA  0.037653
+            Close_ILMN  0.037624
+         Beta_45d_SCHW  0.037540
+       Log_Return_BIDU  0.037232
+         Beta_45d_AVGO  0.037066
+     Variance_5d_MA_PG  0.037059
+           Beta_45d_DD  0.036896
+            MA_45d_IVV  0.036615
+    Variance_5d_MA_UAA  0.036567
+          Beta_45d_MET  0.036472
+          Beta_45d_WMT  0.036316
+     Variance_45d_ALXN  0.036286
+            MA_45d_SHY  0.036024
+        Adj_Close_TSLA  0.035958
+             MA_5d_VWO  0.035824
+            MA_45d_XLE  0.035819
+            MA_45d_IBM  0.035771
+      Variance_45d_DIS  0.035732
+           MA_45d_NFLX  0.035616
+            MA_45d_VLO  0.035538
+            MA_45d_HYG  0.035325
+     Variance_5d_MA_MU  0.035277
+          Beta_45d_WBA  0.035245
+      Variance_45d_USO  0.035095
+      Variance_45d_VGK  0.034983
+             Close_APC  0.034952
+         Adj_Close_MON  0.034696
+   Variance_45d_MA_EOG  0.034531
+            MA_45d_IWB  0.034310
+            MA_45d_IBB  0.034147
+             Close_MCK  0.033988
+         Adj_Close_DOW  0.033983
+            Close_CSCO  0.033825
+            MA_45d_XLV  0.033757
+           MA_45d_MDLZ  0.033642
+          Beta_45d_AGG  0.033599
+      Variance_45d_XOP  0.033346
+    Variance_5d_MA_UPS  0.032984
+    Variance_5d_MA_WBA  0.032946
+           Beta_45d_MU  0.032867
+            MA_45d_TGT  0.032798
+      Variance_45d_AXP  0.032781
+      Variance_45d_HON  0.032634
+    Variance_5d_MA_USB  0.032500
+            MA_45d_VTV  0.032248
+    Variance_5d_MA_MDY  0.032144
+         MA_45d_LBTY.K  0.032142
+             Close_XLF  0.032114
+         MA_45d_GOOG.L  0.031948
+    Variance_5d_MA_BMY  0.031858
+     Variance_45d_ORCL  0.031717
+Variance_45d_MA_CMCS.A  0.031589
+            MA_45d_XLF  0.031480
+            Close_ORCL  0.031407
+    Variance_5d_MA_VNQ  0.031385
+            MA_45d_PEP  0.031342
+      Variance_45d_EZU  0.031322
+            Volume_VTV  0.031250
+    Variance_5d_MA_GDX  0.031081
+    Variance_5d_MA_IJH  0.031011
+            Volume_GLD  0.030855
+   Variance_45d_MA_XLI  0.030850
+          Beta_45d_XLB  0.030828
+            MA_45d_COP  0.030685
+     Variance_45d_ESRX  0.030676
+             Close_AMJ  0.030668
+            MA_45d_USO  0.030654
+      Variance_45d_BMY  0.030473
+   Variance_5d_MA_SBUX  0.030468
+   Variance_45d_MA_EPD  0.030436
+            MA_45d_VWO  0.030424
+          Beta_45d_AET  0.030388
+      Variance_45d_EWG  0.030343
+      Variance_45d_PFE  0.030335
+        Log_Return_SSO  0.030334
+          Beta_45d_JPM  0.030312
+    Variance_5d_MA_VWO  0.030302
+    Variance_5d_MA_IBM  0.030228
+      Variance_5d_MA_T  0.029999
+         Adj_Close_UAA  0.029972
+          Close_LBTY.A  0.029959
+            Close_AABA  0.029740
+           Beta_45d_WW  0.029731
+   Variance_5d_MA_GILD  0.029710
+          Beta_45d_MDT  0.029602
+    Variance_5d_MA_XLY  0.029542
+   Variance_45d_TFCF.A  0.029527
+    Variance_5d_MA_NKE  0.029476
+            Close_GILD  0.029413
+         Adj_Close_SIG  0.029234
+     Variance_45d_QCOM  0.029233
+    Variance_5d_MA_XLP  0.029116
+            MA_45d_CVX  0.029061
+            Close_MDLZ  0.029040
+               RV_x_RQ  0.029005
+            MA_45d_DIA  0.028966
+               Close_F  0.028897
+             Volume_MO  0.028770
+             Close_EOG  0.028729
+       Variance_45d_VZ  0.028720
+   Variance_45d_MA_IYR  0.028674
+          Beta_45d_DXJ  0.028598
+            MA_45d_EWG  0.028551
+           Beta_45d_KR  0.028525
+             MA_45d_MA  0.028507
+           Beta_45d_HD  0.028447
+    Variance_5d_MA_UNH  0.028372
+      Variance_45d_MMM  0.028284
+        Adj_Close_AABA  0.028120
+    Variance_5d_MA_HAL  0.028110
+        Variance_45d_C  0.028062
+            MA_45d_AMJ  0.027974
+              Close_KO  0.027827
+         Adj_Close_JPM  0.027731
+             Close_EWG  0.027706
+         Adj_Close_MMM  0.027675
+             Close_BMY  0.027660
+             MA_5d_XOP  0.027582
+            MA_5d_BIIB  0.027560
+      Variance_45d_CMG  0.027512
+            MA_45d_FXI  0.027506
+             MA_5d_TGT  0.027484
+    Variance_45d_MA_BA  0.027309
+      Variance_45d_TLT  0.027278
+    Variance_5d_MA_QQQ  0.027235
+             MA_5d_LMT  0.027147
+           MA_45d_BRCM  0.027068
+      Variance_45d_IWR  0.027004
+             MA_45d_DD  0.026958
+             MA_45d_GE  0.026907
+    Variance_5d_MA_SLB  0.026851
+             MA_45d_SO  0.026812
+          Adj_Close_PM  0.026809
+         Adj_Close_UNP  0.026794
+          Beta_45d_EZU  0.026775
+   Variance_5d_MA_ESRX  0.026482
+   Variance_45d_MA_XLV  0.026476
+           MA_45d_ANDV  0.026311
+            MA_5d_SWKS  0.026295
+             Close_IYR  0.026259
+            MA_45d_SIG  0.026161
+  Variance_45d_MA_BRCM  0.026076
+      Variance_45d_NKE  0.025942
+          Beta_45d_IBB  0.025860
+    Variance_5d_MA_TXN  0.025853
+          Beta_45d_PEP  0.025835
+           MA_45d_QCOM  0.025821
+   Variance_5d_MA_MSFT  0.025698
+    Variance_45d_MA_HD  0.025654
+            Close_NXPI  0.025555
+             Close_UAL  0.025474
+             Close_SSO  0.025449
+         Beta_45d_TQQQ  0.025448
+      Variance_45d_BLK  0.025409
+         Adj_Close_CVS  0.025378
+           MA_45d_BIIB  0.025296
+            MA_45d_DXJ  0.025214
+            MA_5d_AMGN  0.025087
+            MA_45d_WMB  0.025051
+          Beta_45d_XLF  0.025016
+            MA_5d_AAPL  0.024904
+      Variance_45d_IBM  0.024880
+            MA_5d_GILD  0.024831
+             Close_UPS  0.024796
+         Beta_45d_CELG  0.024746
+   Variance_5d_MA_BKNG  0.024721
+             MA_45d_KR  0.024707
+             Close_MDY  0.024705
+         Beta_45d_ESRX  0.024577
+            Close_HEDJ  0.024379
+             Close_XLK  0.024371
+             MA_45d_PG  0.024331
+      Variance_45d_EEM  0.024319
+            MA_45d_VEU  0.024174
+       Variance_45d_MU  0.024174
+        Adj_Close_BKNG  0.023730
+         Adj_Close_PFE  0.023631
+            Volume_GDX  0.023584
+              MA_5d_KO  0.023562
+   Variance_45d_LBTY.A  0.023517
+           MA_45d_EXPE  0.023441
+      Variance_45d_LOW  0.023430
+              Close_MS  0.023316
+   Variance_45d_MA_FXI  0.023263
+            MA_45d_ACN  0.023235
+            MA_45d_EZU  0.023230
+             Close_MET  0.023185
+              MA_45d_V  0.023184
+             MA_45d_PM  0.023143
+              Close_BP  0.023043
+            Volume_TWX  0.023027
+         Volume_LBTY.K  0.023008
+             Close_USO  0.022962
+      Variance_45d_DOW  0.022930
+        Log_Return_VOO  0.022907
+      Variance_45d_SIG  0.022810
+             MA_5d_VTV  0.022803
+             Close_EWJ  0.022710
+             Close_VEA  0.022673
+             MA_45d_MU  0.022673
+      Variance_45d_LLY  0.022648
+             MA_5d_MDT  0.022567
+          Beta_45d_ACN  0.022541
+    Variance_5d_MA_EZU  0.022500
+   Variance_45d_MA_LMT  0.022394
+    Variance_5d_MA_BLK  0.022307
+             Close_SIG  0.022234
+          Adj_Close_PG  0.022088
+            MA_45d_VXX  0.022074
+      Variance_5d_MA_C  0.022074
+              RQ_daily  0.022062
+   Variance_45d_MA_APC  0.021995
+  Variance_45d_MA_SBUX  0.021948
+            MA_45d_WFC  0.021776
+             Close_USB  0.021748
+            Volume_XLB  0.021724
+         Adj_Close_MCD  0.021651
+   Variance_45d_MA_GLD  0.021600
+    Variance_5d_MA_XLE  0.021490
+     Variance_45d_CSCO  0.021464
+             Close_EZU  0.021432
+      Variance_45d_HAL  0.021301
+            Volume_WFC  0.021299
+             Volume_WW  0.021266
+            Beta_45d_T  0.021248
+            MA_45d_BMY  0.021240
+            MA_45d_VTI  0.021212
+             Close_XLV  0.021155
+        SPY_Return_DXJ  0.021149
+            MA_45d_CVS  0.021147
+             Close_CVS  0.021087
+      Variance_45d_VLO  0.021012
+    Variance_5d_MA_FXI  0.020977
+             Close_IBB  0.020917
+            MA_45d_BLK  0.020885
+            Volume_XLE  0.020844
+ Variance_5d_MA_LBTY.A  0.020819
+            MA_5d_BRCM  0.020799
+               Close_C  0.020706
+            MA_45d_UTX  0.020681
+         Adj_Close_IEF  0.020642
+          Beta_45d_FXI  0.020641
+        Adj_Close_MDLZ  0.020457
+     Log_Return_GOOG.L  0.020444
+             Close_VGK  0.020318
+             Close_BDX  0.020259
+            MA_45d_AET  0.020240
+              MA_5d_CB  0.020205
+  Variance_5d_MA_BRK.B  0.020147
+         Beta_45d_BIIB  0.020098
+          Beta_45d_IWM  0.020080
+      Variance_45d_OXY  0.020058
+    Variance_5d_MA_BDX  0.020049
+            MA_45d_EPD  0.020026
+            Volume_APC  0.020016
+   Variance_45d_MA_BHC  0.019968
+       Beta_45d_TFCF.A  0.019967
+             Close_XOM  0.019936
+    Variance_5d_MA_FDX  0.019819
+            MA_45d_IWD  0.019746
+            MA_45d_SPG  0.019681
+             Close_VLO  0.019539
+    Variance_5d_MA_OXY  0.019505
+             MA_5d_VTI  0.019491
+             Close_SHY  0.019447
+         Adj_Close_EFA  0.019401
+          Beta_45d_LOW  0.019375
+   Variance_45d_MA_XLY  0.019313
+      Variance_45d_EFA  0.019234
+            MA_45d_AGG  0.019216
+         Adj_Close_IWM  0.019200
+   Variance_45d_MA_XLE  0.019163
+            MA_5d_ILMN  0.019158
+           Adj_Close_C  0.019124
+            Close_AMGN  0.019082
+            MA_45d_BAC  0.019036
+             Close_MDT  0.019023
+   Variance_5d_MA_ANDV  0.019006
+                 MA_5d  0.018951
+             Close_MMM  0.018796
+         Adj_Close_XLF  0.018747
+         Adj_Close_ICE  0.018742
+            Volume_VXX  0.018682
+             Close_XLB  0.018644
+            Volume_EZU  0.018594
+             MA_5d_MRK  0.018578
+             MA_45d_MS  0.018552
+         Adj_Close_MDT  0.018515
+  Variance_45d_MA_ATVI  0.018514
+       Log_Return_TQQQ  0.018476
+        Adj_Close_HEDJ  0.018424
+             Volume_MS  0.018184
+         Adj_Close_XOM  0.018153
+   Variance_5d_MA_NXPI  0.018141
+             Close_UNH  0.018087
+           MA_45d_ILMN  0.017902
+               Close_V  0.017809
+   Variance_45d_MA_XLF  0.017786
+          Beta_45d_CRM  0.017778
+             MA_5d_BMY  0.017715
+            MA_5d_AABA  0.017505
+             MA_5d_CVS  0.017499
+         Beta_45d_MSFT  0.017452
+             MA_5d_WMB  0.017434
+        SPY_Return_VEU  0.017431
+   Variance_45d_MA_LOW  0.017421
+             Close_LMT  0.017403
+           MA_45d_SCHW  0.017371
+  Variance_45d_MA_AVGO  0.017352
+           MA_45d_HEDJ  0.017307
+              MA_5d_BP  0.017300
+             MA_5d_XLP  0.017264
+     Variance_45d_BIIB  0.017214
+            Close_SWKS  0.017128
+             MA_5d_TWX  0.017085
+             Volume_VZ  0.017055
+           MA_45d_CSCO  0.017053
+             Close_TNA  0.017048
+           Volume_BIDU  0.017021
+    Variance_5d_MA_ACN  0.017020
+             Close_TXN  0.017015
+            Volume_EWG  0.016821
+         Adj_Close_CAT  0.016799
+      Variance_45d_ACN  0.016644
+             MA_5d_VXX  0.016594
+            MA_45d_XLU  0.016509
+     Variance_45d_SWKS  0.016495
+             Close_IWN  0.016417
+           Volume_INTC  0.016351
+            MA_45d_IYR  0.016344
+             MA_5d_CRM  0.016333
+         Adj_Close_DIS  0.016258
+       Beta_45d_GOOG.L  0.016208
+    Variance_5d_MA_DAL  0.016165
+             Close_FDX  0.016142
+   Variance_45d_MA_IWD  0.016027
+          Adj_Close_BP  0.016027
+             MA_45d_CB  0.015929
+    Variance_5d_MA_LLY  0.015909
+             Close_HYG  0.015801
+     Variance_45d_BIDU  0.015799
+   Variance_5d_MA_AVGO  0.015775
+            MA_45d_SPY  0.015768
+             MA_5d_BHC  0.015711
+   Variance_45d_MA_IWF  0.015698
+         Adj_Close_IWR  0.015690
+    Variance_5d_MA_PFE  0.015652
+            Beta_45d_C  0.015539
+      Variance_45d_GLD  0.015478
+    Variance_5d_MA_MRK  0.015439
+        Adj_Close_NFLX  0.015328
+            Volume_TXN  0.015323
+     Variance_45d_NXPI  0.015204
+            Volume_UTX  0.015160
+            Close_QCOM  0.015028
+            MA_45d_EFA  0.015025
+             Close_DXJ  0.014930
+             Close_TWX  0.014902
+       Variance_45d_CB  0.014830
+             MA_5d_CAT  0.014811
+             Close_DOW  0.014781
+         Beta_45d_BKNG  0.014498
+               MA_5d_C  0.014490
+            MA_45d_IJH  0.014481
+           MA_45d_SWKS  0.014309
+        Log_Return_QQQ  0.014306
+           Beta_45d_GS  0.014236
+    Variance_5d_MA_AMJ  0.014209
+   Variance_5d_MA_BIDU  0.014201
+     Variance_5d_MA_MS  0.014149
+             Close_VNQ  0.014143
+            MA_45d_UNP  0.014129
+    Variance_45d_MA_PM  0.014117
+           Volume_BKNG  0.014033
+         Volume_GOOG.L  0.013992
+            Volume_MCD  0.013979
+             MA_5d_SLB  0.013906
+             MA_5d_WBA  0.013886
+        Log_Return_MDT  0.013881
+              MA_5d_KR  0.013866
+         Adj_Close_UTX  0.013798
+        Log_Return_DIS  0.013781
+         Beta_45d_MDLZ  0.013779
+            Volume_MMM  0.013693
+            MA_5d_CELG  0.013678
+             MA_5d_IYR  0.013670
+            Volume_XLI  0.013583
+    Variance_5d_MA_SSO  0.013382
+             Close_XLE  0.013375
+             MA_5d_VGK  0.013365
+            MA_45d_VEA  0.013258
+         Adj_Close_UNH  0.013200
+            Volume_SPY  0.013184
+        Adj_Close_SWKS  0.013115
+          Beta_45d_EWJ  0.013113
+             MA_5d_KMB  0.013084
+    Variance_5d_MA_DOW  0.013079
+             Close_UTX  0.013053
+    Variance_5d_MA_TNA  0.013007
+               Close_T  0.012955
+    Variance_5d_MA_XLF  0.012932
+   Variance_5d_MA_UPRO  0.012908
+             MA_5d_UPS  0.012830
+            MA_45d_BHC  0.012732
+      Variance_45d_FXI  0.012721
+             Close_IWD  0.012671
+             MA_45d_GS  0.012659
+             MA_5d_IWM  0.012651
+    Variance_5d_MA_IWD  0.012585
+             MA_5d_MDY  0.012500
+             MA_5d_FXI  0.012442
+    Variance_5d_MA_JNJ  0.012435
+      Variance_45d_CVS  0.012407
+            MA_45d_UAL  0.012383
+             Close_WFC  0.012357
+         Adj_Close_WBA  0.012349
+             MA_5d_WFC  0.012349
+             MA_5d_AMJ  0.012339
+        Log_Return_IWD  0.012300
+             MA_5d_DIS  0.012282
+    Variance_5d_MA_AXP  0.012186
+      Variance_45d_XLE  0.012145
+            MA_45d_KMB  0.012145
+            MA_45d_MMM  0.012140
+            MA_45d_EEM  0.012058
+            MA_45d_AXP  0.012056
+      Variance_45d_VEA  0.012035
+             Close_CAT  0.011978
+            Volume_PEP  0.011964
+            MA_45d_MCK  0.011959
+             MA_5d_IVV  0.011945
+             Close_AXP  0.011944
+      Variance_45d_UAL  0.011909
+            MA_45d_UNH  0.011861
+             MA_5d_MMM  0.011852
+             MA_5d_VLO  0.011806
+        SPY_Return_IBM  0.011799
+           MA_45d_COST  0.011779
+   Variance_5d_MA_CSCO  0.011695
+        Log_Return_SLB  0.011688
+             Close_IBM  0.011669
+    Variance_5d_MA_VEA  0.011440
+              MA_5d_MO  0.011416
+          Beta_45d_MCD  0.011410
+            MA_45d_VOO  0.011339
+      Variance_45d_MON  0.011302
+             Close_IJH  0.011292
+            SPY_Return  0.011192
+    Variance_5d_MA_IWN  0.011169
+    Variance_5d_MA_XLB  0.011141
+             MA_5d_DIA  0.011133
+           Volume_MDLZ  0.011118
+             MA_5d_BDX  0.011096
+             MA_5d_IWN  0.011067
+            Volume_EEM  0.011059
+            MA_45d_VNQ  0.010966
+             Close_HON  0.010958
+            Volume_EFA  0.010941
+            Volume_BAC  0.010696
+            Volume_SSO  0.010681
+             MA_5d_IBB  0.010668
+             Volume_MA  0.010649
+        Log_Return_IBB  0.010640
+            MA_45d_HON  0.010583
+             MA_5d_TLT  0.010562
+             MA_5d_JNJ  0.010532
+            Volume_IWF  0.010458
+            MA_45d_BND  0.010449
+              MA_5d_MS  0.010449
+            MA_5d_EXPE  0.010437
+        Log_Return_XLK  0.010422
+        Adj_Close_QCOM  0.010410
+           MA_45d_NXPI  0.010368
+        Log_Return_XLY  0.010332
+            Volume_PFE  0.010246
+           Volume_ESRX  0.010244
+            MA_45d_CRM  0.010238
+                MA_45d  0.010233
+    Variance_5d_MA_IWB  0.010175
+            MA_45d_IEF  0.010175
+             Adj_Close  0.010102
+         Adj_Close_SHY  0.010044
+            MA_45d_TLT  0.010031
+            Volume_BMY  0.009991
+        Adj_Close_ORCL  0.009990
+        Log_Return_HON  0.009959
+        SPY_Return_IEF  0.009946
+          Close_LBTY.K  0.009942
+            Volume_IEF  0.009934
+            Volume_VEA  0.009917
+           Volume_UPRO  0.009909
+            MA_5d_ESRX  0.009886
+        SPY_Return_VGK  0.009871
+         Adj_Close_VGK  0.009870
+             MA_5d_UNH  0.009818
+       Log_Return_UPRO  0.009780
+            MA_45d_JPM  0.009748
+            MA_5d_HEDJ  0.009747
+   Variance_45d_MA_IWR  0.009679
+            MA_5d_SPXU  0.009670
+       Variance_45d_BP  0.009640
+   Variance_45d_MA_HAL  0.009602
+             MA_5d_XLE  0.009558
+             Close_MCD  0.009533
+              Volume_C  0.009514
+           MA_45d_SBUX  0.009488
+             MA_5d_BAC  0.009486
+            Volume_VNQ  0.009433
+            Volume_QQQ  0.009427
+            MA_5d_BKNG  0.009392
+        Log_Return_IWF  0.009369
+             Close_COP  0.009352
+    Variance_5d_MA_IWR  0.009291
+            MA_5d_INTC  0.009242
+        Log_Return_VEU  0.009211
+            MA_45d_IWN  0.009185
+        Log_Return_IWB  0.009182
+         Adj_Close_EWG  0.009145
+        Adj_Close_GILD  0.009087
+             MA_5d_UNP  0.009052
+            Volume_VOO  0.008946
+        Log_Return_WMB  0.008940
+            MA_45d_IWR  0.008927
+             Close_VXX  0.008893
+             MA_5d_PFE  0.008766
+            Volume_KMB  0.008752
+   Variance_45d_MA_EEM  0.008596
+             Volume_GE  0.008566
+            Volume_IWD  0.008507
+            Volume_AIG  0.008501
+             MA_5d_DAL  0.008498
+            MA_5d_AMLP  0.008468
+         Adj_Close_SPG  0.008446
+         Adj_Close_UAL  0.008442
+             MA_5d_CMG  0.008369
+         Log_Return_SO  0.008341
+              MA_45d_T  0.008334
+         Adj_Close_DXJ  0.008306
+            Log_Return  0.008243
+            MA_5d_QCOM  0.008241
+             MA_5d_UTX  0.008222
+            MA_45d_IWM  0.008197
+            Volume_CMG  0.008162
+         Adj_Close_USO  0.008140
+   Variance_45d_MA_XLK  0.008089
+             MA_5d_IEF  0.008064
+  Variance_45d_MA_ANDV  0.008000
+        Log_Return_DXJ  0.007937
+    Variance_5d_MA_XLI  0.007900
+      Variance_45d_AGG  0.007891
+               MA_5d_T  0.007864
+       Log_Return_SPXU  0.007802
+            MA_45d_MCD  0.007783
+         Adj_Close_APC  0.007782
+        Log_Return_PXD  0.007714
+             MA_5d_EWG  0.007709
+        Log_Return_IVV  0.007673
+             MA_5d_EFA  0.007649
+           Volume_SPXU  0.007643
+    Variance_5d_MA_VLO  0.007641
+        Adj_Close_CSCO  0.007521
+        SPY_Return_EFA  0.007511
+            Volume_XOP  0.007491
+      Variance_45d_DAL  0.007445
+            Volume_EOG  0.007412
+    Variance_5d_MA_WFC  0.007349
+        Log_Return_FDX  0.007319
+           Volume_COST  0.007317
+    Variance_5d_MA_SPY  0.007300
+            MA_5d_REGN  0.007265
+               MA_5d_F  0.007258
+            Volume_FDX  0.007244
+             MA_5d_DUK  0.007200
+             MA_5d_LOW  0.007174
+             MA_5d_DOW  0.007174
+           Volume_GILD  0.007145
+        Log_Return_VXX  0.007132
+             Volume_BK  0.007114
+            Close_COST  0.007107
+           Volume_AMLP  0.007084
+             Close_XLI  0.007061
+            MA_5d_AVGO  0.007053
+             MA_5d_XLB  0.007042
+              MA_5d_PG  0.007026
+         SPY_Return_SO  0.007009
+           MA_45d_TSLA  0.007007
+           Adj_Close_F  0.007004
+        Log_Return_XLP  0.006963
+                 Close  0.006936
+             MA_5d_APC  0.006928
+              Volume_V  0.006805
+           MA_5d_BRK.B  0.006744
+         Adj_Close_IJH  0.006741
+        Log_Return_XLU  0.006740
+            Volume_LOW  0.006739
+            MA_5d_ORCL  0.006734
+            Volume_MDY  0.006711
+           Volume_AMGN  0.006702
+            Volume_VLO  0.006652
+         Volume_LBTY.A  0.006620
+            MA_5d_ATVI  0.006565
+             MA_5d_XLI  0.006557
+            MA_5d_ANDV  0.006515
+          Beta_45d_VNQ  0.006508
+        Log_Return_BLK  0.006507
+             MA_5d_EEM  0.006496
+             MA_5d_GLD  0.006489
+        Log_Return_VWO  0.006434
+            Volume_JPM  0.006406
+             MA_5d_EWZ  0.006406
+            Volume_MET  0.006400
+            MA_45d_MDY  0.006395
+        Log_Return_WFC  0.006365
+            Volume_IJH  0.006308
+             MA_5d_SIG  0.006285
+        Log_Return_KMB  0.006238
+    Variance_5d_MA_IVV  0.006227
+        Log_Return_MET  0.006227
+             MA_5d_VEA  0.006187
+            Volume_SLB  0.006185
+           Volume_SCHW  0.006184
+             MA_5d_XLY  0.006182
+             MA_5d_MET  0.006155
+         Log_Return_CB  0.006140
+             MA_5d_IWR  0.006111
+            Volume_CVS  0.006109
+            MA_5d_TSLA  0.006105
+             MA_5d_QQQ  0.006054
+           MA_45d_BKNG  0.006051
+             Volume_KO  0.006040
+   Variance_45d_MA_DIA  0.006019
+        Log_Return_DAL  0.005994
+             MA_5d_WMT  0.005910
+        Log_Return_VEA  0.005901
+        Log_Return_APC  0.005829
+        Log_Return_CAT  0.005819
+            Volume_WMB  0.005795
+             MA_5d_USO  0.005789
+            Volume_VTI  0.005783
+              Close_MU  0.005771
+            Volume_HYG  0.005758
+             Volume_GS  0.005752
+             MA_5d_ABT  0.005708
+           Volume_BRCM  0.005696
+             MA_5d_EOG  0.005671
+              MA_5d_PM  0.005661
+            Volume_EWZ  0.005660
+    Variance_5d_MA_MON  0.005655
+            MA_5d_AMZN  0.005642
+    Variance_5d_MA_XLK  0.005622
+           Volume_AMZN  0.005606
+            Volume_DXJ  0.005590
+             MA_5d_IBM  0.005571
+             MA_5d_TXN  0.005567
+            Volume_AGG  0.005550
+              MA_5d_SO  0.005545
+             MA_5d_MCK  0.005526
+             MA_5d_IWD  0.005513
+             Close_BLK  0.005499
+        Log_Return_BHC  0.005488
+        Log_Return_VTI  0.005485
+              MA_5d_VZ  0.005472
+            Volume_EWJ  0.005448
+             MA_5d_PEP  0.005436
+         Adj_Close_VNQ  0.005422
+                Volume  0.005355
+            Volume_ICE  0.005351
+        Log_Return_EEM  0.005327
+             MA_5d_XOM  0.005307
+           Volume_CSCO  0.005307
+             MA_5d_OXY  0.005297
+             MA_5d_AET  0.005225
+            Volume_MCK  0.005217
+            Volume_IWB  0.005187
+         Log_Return_BA  0.005182
+        Log_Return_MMM  0.005161
+              MA_5d_HD  0.005134
+             MA_5d_UAA  0.005102
+        Log_Return_TLT  0.005088
+             Close_XLP  0.005078
+          MA_5d_TFCF.A  0.005071
+        Log_Return_UTX  0.005056
+   Variance_5d_MA_AMZN  0.005038
+        SPY_Return_SLB  0.005006
+        SPY_Return_EPD  0.004981
+           Volume_ILMN  0.004973
+             MA_5d_VNQ  0.004954
+              MA_5d_DD  0.004953
+            MA_5d_SCHW  0.004949
+         Log_Return_PM  0.004936
+      Log_Return_BRK.B  0.004934
+           Volume_AAPL  0.004926
+            Beta_45d_V  0.004909
+        Log_Return_IEF  0.004903
+            MA_5d_MDLZ  0.004901
+             MA_5d_USB  0.004863
+    Variance_5d_MA_VTI  0.004855
+            Volume_VEU  0.004843
+            Volume_AMJ  0.004835
+        Log_Return_AIG  0.004784
+             MA_5d_SPG  0.004771
+            Volume_JNJ  0.004759
+       Log_Return_CSCO  0.004757
+              MA_5d_GS  0.004755
+        SPY_Return_MDY  0.004750
+    Variance_5d_MA_VTV  0.004737
+             MA_5d_VEU  0.004736
+            Volume_MON  0.004734
+         Log_Return_HD  0.004727
+             Volume_MU  0.004724
+        Log_Return_VTV  0.004703
+       Log_Return_ILMN  0.004703
+        Log_Return_COP  0.004698
+            Volume_HAL  0.004698
+         Adj_Close_XLB  0.004698
+            Volume_USB  0.004686
+            Volume_UPS  0.004680
+             MA_5d_MCD  0.004655
+            Volume_AXP  0.004646
+            Volume_XLP  0.004643
+             MA_5d_HON  0.004626
+              MA_5d_WW  0.004625
+            MA_5d_COST  0.004619
+            Volume_AGN  0.004582
+             MA_5d_JPM  0.004581
+            Volume_AET  0.004528
+            Volume_NKE  0.004520
+            Volume_MRK  0.004505
+        Log_Return_CRM  0.004500
+           Volume_TSLA  0.004476
+         Adj_Close_IBM  0.004462
+             Close_DAL  0.004439
+         Adj_Close_TWX  0.004438
+       Log_Return_AMZN  0.004416
+        SPY_Return_IJH  0.004409
+           Volume_NFLX  0.004399
+           Volume_EXPE  0.004388
+           Volume_CELG  0.004379
+            Volume_HON  0.004378
+        Log_Return_FXI  0.004374
+            Volume_BND  0.004359
+           Volume_REGN  0.004347
+             MA_5d_LLY  0.004313
+    Variance_5d_MA_IWM  0.004311
+           Adj_Close_V  0.004310
+        Log_Return_AXP  0.004304
+              MA_5d_GE  0.004301
+          MA_5d_CMCS.A  0.004293
+           MA_45d_BIDU  0.004291
+             MA_5d_ICE  0.004287
+        Log_Return_SIG  0.004283
+        Log_Return_UPS  0.004281
+       Log_Return_GILD  0.004253
+        Log_Return_EZU  0.004243
+       Log_Return_REGN  0.004223
+        Log_Return_BMY  0.004205
+          Log_Return_F  0.004190
+       Log_Return_AAPL  0.004184
+        Log_Return_EFA  0.004180
+         Log_Return_GE  0.004170
+        SPY_Return_MDT  0.004154
+            Volume_CRM  0.004131
+        Log_Return_XLV  0.004127
+       Log_Return_BRCM  0.004125
+             MA_5d_EZU  0.004121
+             MA_5d_IWB  0.004082
+            MA_5d_MSFT  0.004069
+            Volume_DIA  0.004056
+            Volume_DAL  0.004051
+             MA_5d_XLU  0.004044
+            MA_5d_BIDU  0.004038
+            MA_5d_NFLX  0.004023
+         Adj_Close_COP  0.004011
+        Log_Return_MDY  0.004010
+             MA_5d_PXD  0.003996
+             MA_5d_DXJ  0.003994
+            Volume_MDT  0.003994
+            Volume_UAL  0.003993
+            Volume_BLK  0.003984
+        Log_Return_TXN  0.003980
+       Log_Return_MDLZ  0.003974
+             MA_5d_UAL  0.003966
+        Adj_Close_COST  0.003964
+        Log_Return_IWR  0.003937
+           Volume_ORCL  0.003934
+             MA_5d_SHY  0.003929
+           Volume_QCOM  0.003924
+        Log_Return_BAC  0.003918
+            Volume_SIG  0.003904
+         Log_Return_BK  0.003867
+        Log_Return_HAL  0.003816
+            Volume_IYR  0.003804
+        Log_Return_UAA  0.003776
+             MA_5d_IJH  0.003765
+        Log_Return_EPD  0.003757
+            Volume_IWM  0.003744
+          Volume_BRK.B  0.003699
+        Log_Return_TNA  0.003691
+            MA_5d_TQQQ  0.003687
+        SPY_Return_BLK  0.003663
+     Log_Return_CMCS.A  0.003646
+       Log_Return_INTC  0.003627
+     Log_Return_TFCF.A  0.003624
+        Log_Return_BND  0.003618
+         Adj_Close_HYG  0.003591
+            Volume_BHC  0.003589
+        Log_Return_IBM  0.003585
+            MA_5d_CSCO  0.003581
+         Log_Return_GS  0.003566
+         Log_Return_MS  0.003565
+        Log_Return_ABT  0.003562
+            Volume_OXY  0.003554
+       Log_Return_ANDV  0.003539
+        Log_Return_XLI  0.003513
+             MA_5d_NKE  0.003494
+             Close_BHC  0.003472
+            Volume_XLF  0.003462
+          Log_Return_T  0.003444
+        Log_Return_HYG  0.003434
+        Log_Return_UNP  0.003422
+             MA_5d_XLV  0.003421
+           Volume_AABA  0.003415
+            Volume_UAA  0.003407
+        Log_Return_PFE  0.003400
+            MA_5d_SBUX  0.003390
+           Volume_HEDJ  0.003382
+       Log_Return_QCOM  0.003382
+        Log_Return_CVS  0.003375
+            Volume_UNH  0.003373
+             MA_5d_XLF  0.003367
+    Variance_5d_MA_EEM  0.003364
+             Volume_BP  0.003344
+        Log_Return_NKE  0.003339
+        Log_Return_LLY  0.003338
+        Log_Return_ICE  0.003328
+             MA_5d_IWF  0.003325
+        Log_Return_VGK  0.003320
+         Log_Return_VZ  0.003310
+           Volume_SWKS  0.003304
+         Volume_CMCS.A  0.003258
+             Volume_KR  0.003253
+        Log_Return_XLF  0.003239
+            Volume_LMT  0.003223
+              Volume_F  0.003209
+            Volume_FXI  0.003205
+           Volume_MSFT  0.003205
+       Log_Return_ALXN  0.003198
+            Volume_EPD  0.003176
+         Log_Return_DD  0.003156
+           Volume_ALXN  0.003153
+             MA_5d_AGG  0.003152
+        Log_Return_DIA  0.003152
+            Volume_COP  0.003152
+        Log_Return_CVX  0.003149
+              MA_5d_MU  0.003146
+             Close_SPG  0.003142
+        Log_Return_AGN  0.003119
+        Log_Return_XOP  0.003113
+             Volume_SO  0.003101
+            Volume_XLY  0.003096
+        Log_Return_IWM  0.003078
+           Volume_NXPI  0.003075
+            Volume_LLY  0.003054
+       Log_Return_BIIB  0.003052
+        Log_Return_ACN  0.003040
+        Log_Return_XLE  0.003020
+       Log_Return_AVGO  0.002993
+             MA_5d_BLK  0.002990
+        Adj_Close_AMGN  0.002978
+        Log_Return_EWJ  0.002972
+            Volume_WBA  0.002929
+            Volume_PXD  0.002928
+             Volume_BA  0.002923
+            Volume_VGK  0.002897
+            Volume_DIS  0.002865
+       Log_Return_HEDJ  0.002861
+        Log_Return_VLO  0.002849
+       Log_Return_COST  0.002848
+        Log_Return_MCK  0.002838
+       Log_Return_CELG  0.002836
+        Log_Return_SPG  0.002833
+        Log_Return_MCD  0.002817
+         Adj_Close_IYR  0.002779
+         Log_Return_WW  0.002778
+              MA_5d_BK  0.002775
+             MA_5d_MON  0.002769
+       Log_Return_EXPE  0.002757
+        Log_Return_GLD  0.002756
+       Log_Return_AABA  0.002751
+            MA_5d_UPRO  0.002750
+        Log_Return_EWG  0.002726
+         Log_Return_KR  0.002713
+        Log_Return_JPM  0.002713
+         Adj_Close_FDX  0.002712
+             MA_5d_BND  0.002709
+        Log_Return_UAL  0.002709
+            Volume_XLK  0.002698
+            Volume_IBB  0.002693
+        SPY_Return_SPG  0.002692
+             Volume_DD  0.002682
+        SPY_Return_MET  0.002679
+    Variance_5d_MA_VOO  0.002674
+        Log_Return_EOG  0.002663
+            Volume_ACN  0.002648
+             MA_5d_FDX  0.002647
+           Volume_ATVI  0.002646
+       Log_Return_NXPI  0.002637
+          Log_Return_V  0.002635
+        SPY_Return_VLO  0.002627
+            Volume_XLV  0.002614
+             MA_5d_EWJ  0.002598
+        Log_Return_IYR  0.002591
+             Volume_PM  0.002584
+        Log_Return_DOW  0.002582
+        Log_Return_CMG  0.002571
+        Log_Return_TWX  0.002568
+        Log_Return_AGG  0.002565
+         Adj_Close_MDY  0.002556
+           Volume_ANDV  0.002552
+            Volume_USO  0.002546
+            Volume_CAT  0.002539
+        Log_Return_OXY  0.002531
+            Volume_CVX  0.002523
+        Log_Return_XLB  0.002512
+   Variance_45d_MA_QQQ  0.002508
+            Volume_IVV  0.002499
+         Adj_Close_XLU  0.002479
+     Log_Return_LBTY.A  0.002468
+           Volume_BIIB  0.002465
+            Volume_XOM  0.002437
+            Volume_TGT  0.002434
+            Volume_WMT  0.002430
+        Log_Return_EWZ  0.002429
+       Log_Return_BKNG  0.002424
+         Log_Return_KO  0.002418
+           Volume_AVGO  0.002409
+             Volume_PG  0.002386
+        Log_Return_USB  0.002366
+         Log_Return_MU  0.002356
+        Log_Return_MON  0.002354
+         Adj_Close_AXP  0.002312
+        Log_Return_BDX  0.002311
+            Volume_IWN  0.002308
+            Volume_TNA  0.002302
+       Log_Return_SCHW  0.002284
+      Adj_Close_LBTY.K  0.002274
+       Log_Return_AMGN  0.002273
+         Log_Return_MO  0.002271
+            Volume_XLU  0.002269
+        Log_Return_PEP  0.002267
+              Volume_T  0.002258
+        Log_Return_JNJ  0.002255
+            Volume_IWR  0.002252
+             Close_VOO  0.002248
+     Log_Return_LBTY.K  0.002235
+       Log_Return_MSFT  0.002234
+             Volume_CB  0.002230
+            Volume_DOW  0.002223
+              MA_5d_BA  0.002202
+        SPY_Return_EEM  0.002174
+            Volume_VWO  0.002158
+            Volume_SHY  0.002155
+         Log_Return_BP  0.002146
+       Log_Return_SBUX  0.002146
+       Log_Return_ESRX  0.002128
+       Log_Return_NFLX  0.002120
+            MA_5d_NXPI  0.002091
+       Log_Return_ATVI  0.002082
+            Volume_DUK  0.002055
+        Log_Return_GDX  0.002031
+        Log_Return_WMT  0.002003
+            Volume_IBM  0.002001
+        Log_Return_AET  0.001983
+         Log_Return_PG  0.001983
+        Log_Return_XOM  0.001956
+        Log_Return_IWN  0.001952
+        Log_Return_VNQ  0.001945
+             Volume_HD  0.001938
+        Adj_Close_BIIB  0.001932
+        Log_Return_SHY  0.001901
+            Volume_BDX  0.001867
+         Log_Return_MA  0.001843
+         Volume_TFCF.A  0.001842
+         Adj_Close_LMT  0.001807
+        Log_Return_LMT  0.001797
+        Log_Return_TGT  0.001786
+          Log_Return_C  0.001781
+        Log_Return_IJH  0.001774
+             Close_XOP  0.001757
+         Adj_Close_UPS  0.001750
+       SPY_Return_ILMN  0.001724
+       Log_Return_ORCL  0.001683
+        Log_Return_WBA  0.001643
+         Adj_Close_AET  0.001585
+            Volume_TLT  0.001577
+          Adj_Close_DD  0.001566
+        Log_Return_UNH  0.001563
+        Log_Return_MRK  0.001535
+        Log_Return_LOW  0.001523
+        Log_Return_AMJ  0.001517
+          Adj_Close_VZ  0.001511
+       Log_Return_TSLA  0.001471
+         SPY_Return_BK  0.001468
+        Log_Return_DUK  0.001456
+          Adj_Close_MS  0.001424
+       Log_Return_AMLP  0.001372
+ Adjustment Factor_EOG  0.001157
+             MA_5d_VOO  0.001091
+        SPY_Return_VNQ  0.001042
+       SPY_Return_BKNG  0.000955
+         Adj_Close_DAL  0.000951
+             MA_5d_SSO  0.000901
+         Adj_Close_DIA  0.000811
+          Adj_Close_MU  0.000811
+      Adj_Close_LBTY.A  0.000811
+         Adj_Close_HON  0.000778
+         Adj_Close_XLK  0.000763
+        Adj_Close_NXPI  0.000719
+         Adj_Close_XOP  0.000710
+         Adj_Close_XLP  0.000686
+         Adj_Close_EZU  0.000584
+             Close_VTI  0.000554
+             MA_5d_SPY  0.000525
+             Close_DIA  0.000503
+        SPY_Return_EOG  0.000445
+         Adj_Close_VXX  0.000438
+         Adj_Close_VEA  0.000394
+         Adj_Close_XLE  0.000129
+        SPY_Return_MMM  0.000111
+       SPY_Return_MDLZ  0.000038
+              Actual  Predicted
+Date                           
+2013-02-28  0.718880   0.676962
+2013-03-01  0.725668   0.691745
+2013-03-04  0.721402   0.721226
+2013-03-05  0.687528   0.735911
+2013-03-06  0.728697   0.772397
